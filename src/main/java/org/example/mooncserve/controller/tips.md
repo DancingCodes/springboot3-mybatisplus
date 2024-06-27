@@ -1,0 +1,1 @@
+Controller层是SpringBoot项目的入口，用于处理外部请求并返回响应。它负责接收客户端的请求，并将请求交给Service层处理。
